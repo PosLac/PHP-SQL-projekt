@@ -1,0 +1,57 @@
+label {
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    display: inline-block;
+    min-width: 120px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    display: inline-flex;
+    vertical-align: bottom;
+    background-color:chartreuse;
+}
+
+input[type=submit]{    
+    background-color:greenyellow;
+    margin:auto;
+    vertical-align: middle;
+}
+
+body{
+    background-color:#D2D2D2;
+}
+
+table{
+    text-align: center;
+}
+
+h1{
+    color: #145A32;
+}
+
+a{
+    color: black;
+}
+
+th{
+    color: green;
+    margin: 5px;
+    padding: 5px;
+}
+
+.EK{
+    width: 88%;
+    height: 82%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+}
+
+span{
+    font-size: 21px;
+}
